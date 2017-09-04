@@ -1,0 +1,1 @@
+O programa carrega um arquivo no formato .txt, com o nome "automato.txt", que deve estar localizado na mesma pasta em que o código principal, este documento pode ser modificado para configurar o autômato para diferentes tipos de comportamentos. Em seguida o programa pede que seja inserida a palavra que será processada.
